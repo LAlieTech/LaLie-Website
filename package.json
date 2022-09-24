@@ -1,0 +1,24 @@
+{
+  "name": "lalie-website",
+  "version": "1.0.0",
+  "description": "LALie official website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAlieTech/https---github.com-LAlieTech-LALie-Website.git"
+  },
+  "author": "Aboyeji Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LAlieTech/https---github.com-LAlieTech-LALie-Website/issues"
+  },
+  "homepage": "https://github.com/LAlieTech/https---github.com-LAlieTech-LALie-Website#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
