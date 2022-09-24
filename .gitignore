@@ -1,3 +1,4 @@
 .env
+/node_modules
 privKey
 privKey.pub
