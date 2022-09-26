@@ -2,7 +2,7 @@
   "name": "lalie-website",
   "version": "1.0.0",
   "description": "LALie official website",
-  "main": "script.js",
+  "main": "public/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
